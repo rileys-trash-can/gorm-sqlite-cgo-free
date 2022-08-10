@@ -8,12 +8,12 @@ import (
 
 	"gorm.io/gorm/callbacks"
 
-	_ "github.com/mattn/go-sqlite3"
 	"gorm.io/gorm"
 	"gorm.io/gorm/clause"
 	"gorm.io/gorm/logger"
 	"gorm.io/gorm/migrator"
 	"gorm.io/gorm/schema"
+	_ "zombiezen.com/go/sqlite"
 )
 
 // DriverName is the default driver name for SQLite.
