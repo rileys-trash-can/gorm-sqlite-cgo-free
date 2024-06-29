@@ -1,6 +1,6 @@
 # GORM CGO-Free Sqlite Driver
 
-![CI](https://github.com/go-gorm/sqlite/workflows/CI/badge.svg)
+Fork of [github.com/genc-murat/gorm-sqlite-cgo-free][//github.com/genc-murat/gorm-sqlite-cgo-free]
 
 ## USAGE
 
